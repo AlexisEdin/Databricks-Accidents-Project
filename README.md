@@ -21,3 +21,8 @@ Le modèle retenu est celui du randomforest car il obtient les meilleures metriq
 
 Le lien Endpoint du Modèle : 
 
+https://adb-2496514911367531.11.azuredatabricks.net/serving-endpoints/3emetest/invocations
+
+token : 
+
+dapi1fbd878c68b49281d8089748b69c8ba7-2
